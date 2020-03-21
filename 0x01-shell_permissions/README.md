@@ -7,3 +7,6 @@ Script that changes your user ID to betty.
 
 ## 1. Who am I
 Script that prints the effective UserID of the current user
+
+## 2. Groups
+Script that prints the groups the current user belongs to.
