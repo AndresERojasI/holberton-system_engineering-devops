@@ -10,3 +10,6 @@ Script that prints the effective UserID of the current user
 
 ## 2. Groups
 Script that prints the groups the current user belongs to.
+ 
+## 3. New owner 
+Script that changes the ownership of the file "hello" (from the current owner) to betty.
