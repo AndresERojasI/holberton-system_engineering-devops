@@ -13,3 +13,6 @@ Script that prints the groups the current user belongs to.
  
 ## 3. New owner 
 Script that changes the ownership of the file "hello" (from the current owner) to betty.
+
+# 4. Empty!
+Script that creates a new empty file called hello.
