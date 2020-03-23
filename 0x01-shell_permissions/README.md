@@ -14,5 +14,11 @@ Script that prints the groups the current user belongs to.
 ## 3. New owner 
 Script that changes the ownership of the file "hello" (from the current owner) to betty.
 
-# 4. Empty!
+## 4. Empty!
 Script that creates a new empty file called hello.
+
+## 5. Execute
+Script that adds execute permission to the owner of the file hello.
+
+## 6. Multiple permissions
+Script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
